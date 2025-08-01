@@ -11,7 +11,9 @@ import SwiftUI
 struct Mini_ShopeeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+//                WelcomeView()
+            }
         }
     }
 }

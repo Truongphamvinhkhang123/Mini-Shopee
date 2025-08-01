@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods 2",
+    "image": "Airpod 2",
+    "price": 893,
+    "description": "The AirPods 2 offer wireless freedom with high-quality sound and seamless integration with Apple devices."
+  },
+  {
+    "id": 2,
+    "name": "iPhone 13",
+    "image": "iphone",
+    "price": 769,
+    "description": "The iPhone 13 is a smartphone with a 6.1-inch Super Retina XDR display, A15 Bionic chip, and a dual 12MP camera system. It features a smaller TrueDepth camera system, improved battery life, and is rated IP68 for water and dust resistance."
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi Redmi Note 12",
+    "image": "xiaomi",
+    "price": 249,
+    "description": "A budget-friendly smartphone with solid features for everyday use."
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM5",
+    "image": "sony",
+    "price": 399,
+    "description": "Industry-leading noise cancellation and premium sound quality."
+  },
+  {
+    "id": 5,
+    "name": "MacBook Air M2",
+    "image": "macbook",
+    "price": 1199,
+    "description": "Lightweight and powerful, the MacBook Air M2 is perfect for students and professionals alike."
+  }
+]
