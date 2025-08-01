@@ -30,6 +30,11 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		6352ACF62E3C618F0056F407 /* Views */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Views;
+			sourceTree = "<group>";
+		};
 		63763B072E3745E400818099 /* Mini Shopee */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Mini Shopee";
@@ -75,6 +80,7 @@
 		63763AFC2E3745E400818099 = {
 			isa = PBXGroup;
 			children = (
+				6352ACF62E3C618F0056F407 /* Views */,
 				63763B072E3745E400818099 /* Mini Shopee */,
 				63763B152E3745E800818099 /* Mini ShopeeTests */,
 				63763B1F2E3745E800818099 /* Mini ShopeeUITests */,
@@ -108,6 +114,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				6352ACF62E3C618F0056F407 /* Views */,
 				63763B072E3745E400818099 /* Mini Shopee */,
 			);
 			name = "Mini Shopee";

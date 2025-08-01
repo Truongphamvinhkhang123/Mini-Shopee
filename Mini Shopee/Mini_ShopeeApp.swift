@@ -12,7 +12,7 @@ struct Mini_ShopeeApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationView {
-//                WelcomeView()
+                WelcomeView()
             }
         }
     }
