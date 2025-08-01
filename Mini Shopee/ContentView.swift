@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Mini Shopee Real Version
+//  Mini Shopee Real Versions
 //
 //  Created by VINH KHANG on 28/7/25.
 //
